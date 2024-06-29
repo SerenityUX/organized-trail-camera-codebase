@@ -1,0 +1,1 @@
+# organized-trail-camera-codebase
